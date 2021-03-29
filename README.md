@@ -3,11 +3,17 @@ Gentleman looking opportunity for a job/ internship in python development or dat
 
 Some skills:
 •	Programming Laguages- Python, C
+
 •	Python modules- sklearn, Numpy, Pandas, Matplotlib, django, Tkinter,  mysql.connector, OS, statistics, random, datetime, jupyter etc.
+
 •	Database- MySQL
+
 •	Others- Machine Learning (basics), Data science, Statistics, Batch programming, Shell scripting, PEP 8
+
 •	Web- HTML5, CSS, Java script, Django
+
 •	Operating system- Windows, Linux
+
 •	Tools- VS code, MS office
 
 Experience:
@@ -25,14 +31,20 @@ Mini Projects:
 
 Education:
 Bachelor of computer application
+
 Master of computer application
 
 Certifications:
 •	“Microsoft Azure AI certification” on march 2021
+
 •	“Python programming and data science” by NIELIT (Ministry of Electronics & Information Technology) on Nov 2020
+
 •	“Django” from DUCAT, Delhi 22 feb 2021 to 15 apr 2021
+
 •	“TCS NQT IT industry and programming” on march 2021.
+
 •	“AWS Cloud Practitioner Essentials” by Amazon on Nov 2020
+
 •	“HTML” by sololearn on Oct 2020 
 
 Social:

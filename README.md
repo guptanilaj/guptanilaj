@@ -1,7 +1,9 @@
 About:
+
 Gentleman looking opportunity for a job/ internship in python development or data science field. Perfect in python programming. Scored 51/60 in TCS NQT (programming) exam. Ability of self learning using documentations, tutorials, stackoverflow, etc. Can relocate anywhere and also can do work from home.
 
 Some skills:
+
 •	Programming Laguages- Python, C
 
 •	Python modules- sklearn, Numpy, Pandas, Matplotlib, django, Tkinter,  mysql.connector, OS, statistics, random, datetime, jupyter etc.
@@ -35,6 +37,7 @@ Bachelor of computer application
 Master of computer application
 
 Certifications:
+
 •	“Microsoft Azure AI certification” on march 2021
 
 •	“Python programming and data science” by NIELIT (Ministry of Electronics & Information Technology) on Nov 2020

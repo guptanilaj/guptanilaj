@@ -19,6 +19,7 @@ Some skills:
 •	Tools- VS code, MS office
 
 Experience:
+
 1 month internship in data science and business analytics at The Sparks Foundation from 28 Feb 2021 to 31 March 2021. 
 
 Projects:
@@ -32,6 +33,7 @@ Mini Projects:
 3. Python GUI dice rolling app with increase/ decrease outcome probability.
 
 Education:
+
 Bachelor of computer application
 
 Master of computer application
@@ -51,6 +53,7 @@ Certifications:
 •	“HTML” by sololearn on Oct 2020 
 
 Social:
+
 Youtube:
 youtube.com/NilajGupta
 Some projects can be found on my youtube channel
